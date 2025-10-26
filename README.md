@@ -6,6 +6,21 @@
 
 Standard MPLS L3VPN configuration with PE-CE BGP routing. Two customer sites with different AS numbers (AS 65000 and AS 65002) communicate through ISP MPLS backbone using VRF isolation and MP-BGP VPNv4.
 
+## Lab Environment
+
+**Emulation Platform:**
+- Hypervisor: VMware Workstation Pro
+- Network Emulator: EVE-NG Community Edition
+- Base OS: Ubuntu 22.04 LTS
+- Router Platform: Cisco IOL (IOS on Linux)
+- IOS Version: 15.x
+
+**Topology:**
+See topology.png for network diagram and device connections.
+
+All configurations have been tested and verified in this environment.
+
+
 ## Configs
 
 - [CE1.cfg](CE1.cfg) - Customer Edge 1 (AS 65000)
