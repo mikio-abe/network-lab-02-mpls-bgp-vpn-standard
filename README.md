@@ -1,6 +1,6 @@
 # MPLS BGP VPN (Standard)
 
-![Topology](./images/topology.jpg)
+![Topology](./topology.jpg)
 
 ## Summary
 
