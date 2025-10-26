@@ -1,6 +1,6 @@
 # MPLS BGP VPN (Standard)
 
-![Topology](./topology.jpg)
+![Topology](topology.jpg)
 
 ## Summary
 
@@ -8,10 +8,10 @@ Standard MPLS L3VPN configuration with PE-CE BGP routing. Two customer sites wit
 
 ## Configs
 
-- [CE1.cfg](./configs/CE1.cfg) - Customer Edge 1 (AS 65000)
-- [PE1.cfg](./configs/PE1.cfg) - Provider Edge 1 (VRF + MP-BGP + MPLS)
-- [PE2.cfg](./configs/PE2.cfg) - Provider Edge 2 (VRF + MP-BGP + MPLS)
-- [CE2.cfg](./configs/CE2.cfg) - Customer Edge 2 (AS 65002)
+- [CE1.cfg](CE1.cfg) - Customer Edge 1 (AS 65000)
+- [PE1.cfg](PE1.cfg) - Provider Edge 1 (VRF + MP-BGP + MPLS)
+- [PE2.cfg](PE2.cfg) - Provider Edge 2 (VRF + MP-BGP + MPLS)
+- [CE2.cfg](CE2.cfg) - Customer Edge 2 (AS 65002)
 
 ## Verification
 
