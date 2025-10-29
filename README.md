@@ -22,11 +22,11 @@ All configurations have been tested and verified in this environment.
 
 ## 📁 Lab Files
 
-[Download 1MPLS-STD-VPN.unl](https://raw.githubusercontent.com/mikio-abe/network-lab-02-mpls-bgp-vpn-standard/main/1MPLS-STD-VPN.unl)
+**EVE-NG Topology File:** [Download 1MPLS-STD-VPN.unl](https://raw.githubusercontent.com/mikio-abe/network-lab-02-mpls-bgp-vpn-standard/main/1MPLS-STD-VPN.unl)
 
-Click the link above to download the complete EVE-NG lab topology file.
+Right-click the link above and select "Save Link As..." to download the complete EVE-NG lab topology file.
 
-## Configuration Files:
+### Configuration Files:
 - [CE1.cfg](https://raw.githubusercontent.com/mikio-abe/network-lab-02-mpls-bgp-vpn-standard/main/CE1.cfg) - Customer Edge 1 (AS 65000)
 - [CE2.cfg](https://raw.githubusercontent.com/mikio-abe/network-lab-02-mpls-bgp-vpn-standard/main/CE2.cfg) - Customer Edge 2 (AS 65002)
 - [PE1.cfg](https://raw.githubusercontent.com/mikio-abe/network-lab-02-mpls-bgp-vpn-standard/main/PE1.cfg) - Provider Edge 1 (VRF + MP-BGP + MPLS)
