@@ -36,4 +36,4 @@ show mpls forwarding-table
 ping vrf ISP_A 192.168.2.1 source 192.168.1.1
 ```
 
-**Blog:** [Medium Article](link)
+**Blog:** [Medium Article](https://github.com/mikio-abe/network-lab-02-mpls-bgp-vpn-standard))
